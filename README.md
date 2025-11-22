@@ -11,6 +11,19 @@ I’m currently building my career at **Microsoft Egypt**, where I'm developing 
 
 ---
 
+## 🌟 My Accessibility Journey
+I am a **visually impaired cybersecurity learner**, and I’m constantly challenging myself to overcome accessibility barriers in technical tools, platforms, and learning resources.
+
+Instead of letting these limitations stop me, I turn them into motivation.
+
+I test, analyze, and work around accessibility issues in cybersecurity tools — and whenever I solve something, I share it with my community so they don’t have to struggle through the same problems.
+
+My mission is simple:
+
+**Make cybersecurity learning more accessible for the visually impaired community — by sharing real solutions, saving time, and empowering others.**
+
+---
+
 ## 💼 Experience Snapshot
 
 ### 🔹 Microsoft Egypt — *Technical Support Intern*
